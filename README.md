@@ -18,8 +18,8 @@ To accurately predict the presence of disease based on complex medical features 
 The model is trained on the **Breast Cancer Wisconsin (Diagnostic) Dataset**, which contains computed features from digitized images of fine needle aspirates (FNA) of breast masses.
 
 ## 🚀 Execution Guide
-1. Open `disease_prediction_ensemble.ipynb` in Google Colab or Jupyter.
-2. Run the cells sequentially to load the data, apply standard scaling, and train the ensemble model.
+1. Open `disease_prediction.ipynb` in Google Colab or Jupyter.
+2. Run the cell to load the data, apply standard scaling, and train the ensemble model.
 3. The final output provides a comprehensive classification report highlighting Precision, Recall, and F1-Scores.
 
 ---
